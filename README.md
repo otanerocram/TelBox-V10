@@ -1,4 +1,4 @@
-# telbox10
+# TelBox V.10
 Firmware para Tarifador TelBox v10
 
 Equipo tarifador de llamadas para locutorios.
